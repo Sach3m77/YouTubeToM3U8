@@ -1,4 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="NASALive.yt" tvg-name="NASA Starbase Live" group-title="Live", NASA Starbase Live
+https://www.youtube.com/watch?v=1oh9IEwBbFY
+
 #EXTINF:-1 tvg-id="Republika.yt" tvg-name="Telewizja Republika" group-title="Live", Telewizja Republika
 https://www.youtube.com/watch?v=1oh9IEwBbFY
